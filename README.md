@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/trust-no-one.png" width="100%" alt="Trust • No • One"/>
-</p>
-
-<p align="center">
   <img src="./assets/separator.svg" width="70%" alt="section separator"/>
 </p>
 
