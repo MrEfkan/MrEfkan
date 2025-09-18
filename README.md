@@ -1,7 +1,7 @@
 <p align="center"><b>🜲 Hakkımda</b></p>
 
 <div align="center">
-  <em>Bir yılı aşkın süredir <b>yazılım</b>b> ve <b>web uygulamaları</b> geliştiriyorum.</em><br/>
+  <em>Bir yılı aşkın süredir <b>yazılım</b> ve <b>web uygulamaları</b> geliştiriyorum.</em><br/>
   <em>Günüm genelde kulaklık + kod; aralarda spor, kahve ve anime. Yeni teknolojileri dener, işe yarayanları projelerime taşırım.</em>
   <br/><br/>
   <code>🎧 müzik</code> <code>☕ kahve</code> <code>🏋 spor</code> <code>👨‍💻 kod</code> <code>🎬 anime</code>
