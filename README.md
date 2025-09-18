@@ -1,4 +1,3 @@
-<!-- Final polished profile README for MrEfkan (applied changes) -->
 <p align="center">
   <img src="./assets/trust-no-one.png" width="100%" alt="Trust • No • One"/>
 </p>
@@ -7,7 +6,6 @@
   <img src="./assets/separator.svg" width="70%" alt="section separator"/>
 </p>
 
-<!-- Platformlar & DevOps (A–Z) -->
 <div align="center">
   <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900"></a>
   <a href="https://www.cloudflare.com/"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white"></a>
@@ -24,7 +22,6 @@
   <a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"></a>
 </div>
 
-<!-- Servisler: Auth / Ödeme / Mesajlaşma (A–Z) -->
 <div align="center">
   <a href="https://aws.amazon.com/ses/"><img alt="AWS SES" src="https://img.shields.io/badge/AWS%20SES-232F3E?logo=amazonaws&logoColor=FF9900&labelColor=232F3E&color=232F3E"></a>
   <a href="https://aws.amazon.com/sns/"><img alt="AWS SNS" src="https://img.shields.io/badge/AWS%20SNS-232F3E?logo=amazonaws&logoColor=FF9900&labelColor=232F3E&color=232F3E"></a>
@@ -36,7 +33,6 @@
   <a href="https://www.twilio.com/"><img alt="Twilio" src="https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white"></a>
 </div>
 
-<!-- Kalite & Otomasyon (A–Z) -->
 <div align="center">
   <a href="https://github.com/dependabot"><img alt="Dependabot" src="https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=white"></a>
   <img alt="dotenv" src="https://img.shields.io/badge/dotenv-2A2A2A">
@@ -46,10 +42,11 @@
   <a href="https://prettier.io/"><img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=000000"></a>
 </div>
 
----
+<p align="center">
+  <img src="./assets/separator.svg" width="70%" alt="section separator"/>
+</p>
 
-<!-- Hakkımda — centered card with pill tags -->
-<p align="center"><b>🜲 Hakkımda</b></p>
+<p align="center"><b>🜲 Hakkımda 🜲</b></p>
 
 <div align="center">
   <em>Bir yılı aşkın süredir yazılım ve <b>web uygulamaları</b> geliştiriyorum. Hızlı prototip → temiz teslim mantığıyla çalışırım.</em><br/>
@@ -62,10 +59,8 @@
   <img src="./assets/separator.svg" width="60%" alt="section separator"/>
 </p>
 
-<!-- 🧰 Teknoloji Yığını — BADGE STYLE (uniform look) -->
-<h3 align="center">🧰 Teknoloji Yığını</h3>
+<h3 align="center">Teknoloji Yığını</h3>
 
-<!-- Diller -->
 <div align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
@@ -77,7 +72,6 @@
 
 <br/>
 
-<!-- Frontend -->
 <div align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
@@ -90,7 +84,6 @@
 
 <br/>
 
-<!-- Backend -->
 <div align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
   <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"/>
@@ -100,7 +93,6 @@
 
 <br/>
 
-<!-- Veri & Kimlik -->
 <div align="center">
   <img alt="CroxyDB" src="https://img.shields.io/badge/CroxyDB-30363D"/>
   <img alt="Firebase Auth" src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?logo=firebase&logoColor=000000"/>
@@ -110,14 +102,12 @@
 
 <br/>
 
-<!-- Ödeme -->
 <div align="center">
   <img alt="iyzico" src="https://img.shields.io/badge/iyzico-00A2DF?logoColor=white"/>
 </div>
 
 <br/>
 
-<!-- İletişim & Bildirim -->
 <div align="center">
   <img alt="AWS SES" src="https://img.shields.io/badge/AWS%20SES-232F3E?logo=amazonaws&logoColor=FF9900"/>
   <img alt="AWS SNS" src="https://img.shields.io/badge/AWS%20SNS-232F3E?logo=amazonaws&logoColor=FF9900"/>
@@ -127,7 +117,6 @@
 
 <br/>
 
-<!-- Dokümantasyon & Bilgi -->
 <div align="center">
   <img alt="GitBook" src="https://img.shields.io/badge/GitBook-121212?logo=gitbook&logoColor=white"/>
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"/>
@@ -135,7 +124,6 @@
 
 <br/>
 
-<!-- DevOps & Dağıtım -->
 <div align="center">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
