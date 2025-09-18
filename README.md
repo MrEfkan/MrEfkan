@@ -1,4 +1,4 @@
-<p align="center"><b>🜲 Hakkımda</b></p>
+<p align="center"><b>🜲 Hakkımda 🜲</b></p>
 
 <div align="center">
   <em>Bir yılı aşkın süredir <b>yazılım</b> ve <b>web uygulamaları</b> geliştiriyorum.</em><br/>
@@ -10,10 +10,6 @@
 <p align="center">
   <img src="./assets/separator.svg" width="60%" alt="section separator"/>
 </p>
-
-<h3 align="center">Teknoloji Yığını</h3>
-
-<br/>
 
 <table align="center" width="100%">
   <tr>
