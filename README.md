@@ -2,9 +2,9 @@
 
 <div align="center">
   <em>Bir yılı aşkın süredir <b>yazılım</b> ve <b>web uygulamaları</b> geliştiriyorum.</em><br/>
-  <em>Günüm genelde kulaklık + kod; aralarda spor, kahve ve anime. Yeni teknolojileri dener, işe yarayanları projelerime taşırım.</em>
+  <em>Günüm genelde kulaklık + kod; aralarda spor, kahve ve film. Yeni teknolojileri dener, işe yarayanları projelerime taşırım.</em>
   <br/><br/>
-  <code>🎧 müzik</code> <code>☕ kahve</code> <code>🏋 spor</code> <code>👨‍💻 kod</code> <code>🎬 anime</code>
+  <code>🎧 müzik</code> <code>☕ kahve</code> <code>🏋 spor</code> <code>👨‍💻 kod</code> <code>🎬 film</code>
 </div>
 
 <p align="center">
@@ -121,4 +121,4 @@
   <img src="./assets/separator.svg" width="60%" alt="section separator"/>
 </p>
 
-<p align="center">💙 Trust • No • One 💙</p>
+<p align="center">🤎 Trust • No • One 🤎</p>
